@@ -230,12 +230,6 @@ Contributions are welcome! Here's how:
 
 This project is licensed under the MIT License - feel free to use it for personal or commercial projects.
 
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
 ## 🙏 Acknowledgments
 
 - Font Awesome for beautiful icons
